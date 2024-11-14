@@ -2,3 +2,6 @@ The file MCD43A4_20200101-20201231_Max75.gif is an animated GIF showing the dail
 The Chl-a concentrations were modeled using MODIS MCD43A4 daily cloud-free imagery coupled with field estimates of Chl-a.
 
 Citation:  R. Douglas Ramsey. "Daily Flux in Chlorophyll-a Concentration Across the Great Salt Lake from January 1, 2020 through December 31, 2020" (2022)
+
+The file:   DailyStationData_MCD43A4.xlsx ![image](https://github.com/user-attachments/assets/a23dfac5-9b83-482b-8f8d-708e012a93f3)
+contains modeled data for seasonal cycles of Chl a derived from MCD43A4 spanning 20 years for 14 stations
